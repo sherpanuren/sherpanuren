@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nuren Sherpa</h1>
-<h3 align="center">A passionate Python Programmer from Nepal.</h3>
+<h3 align="center">An aspiring Data Analyst from Nepal.</h3>
 <img aligh="center" alt="coding" width="400" src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sherpanuren&label=Profile%20views&color=0e75b6&style=flat" alt="sherpanuren" /> </p>
-
-- 🌱 I’m currently learning **DBMS and SQL.**
 
 - 📫 How to reach me : **sherpanuren1@gmail.com**
 
