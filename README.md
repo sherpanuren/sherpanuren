@@ -2,7 +2,7 @@
 ## Cloud Developer | AWS Enthusiast | Nepal 🇳🇵
 
 <div align="center">
-  <img alt="coding" width="400" src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif">
+  <img alt="Cloud Architecture" width="400" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
 </div>
 
 <p align="left"> 
@@ -71,25 +71,12 @@
 - ✅ **Team collaboration** experience through version control
 - ✅ **Reliable communication** and project delivery
 
-## 📈 GitHub Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sherpanuren&show_icons=true&locale=en&layout=compact&theme=default" alt="sherpanuren" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sherpanuren&show_icons=true&locale=en&theme=default" alt="sherpanuren" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sherpanuren&theme=default" alt="sherpanuren" />
-</div>
-
 ## 💬 Let's Connect - I'm Open to Opportunities!
 <p align="left">
   <a href="https://linkedin.com/in/nuren-sherpa-507052276" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="https://fb.com/nurensherpa" target="blank">
+  <a href="https://www.facebook.com/nuren.sherpa.2025/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
   </a>
   <a href="https://instagram.com/sherpa.nuren" target="blank">
