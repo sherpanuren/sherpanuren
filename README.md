@@ -14,7 +14,7 @@
 - ☁️ **Focus**: Building cloud-native applications with AWS services
 - 💡 **Passionate** about scalable web development and cloud architecture
 - 🚀 **Goal**: Contributing to innovative cloud projects while growing technical expertise
-- 🌐 **Location**: Nepal | **Availability**: Remote/Hybrid opportunities welcome
+- 🌐 **Location**: Kathmandu, Nepal | **Availability**: Remote/Hybrid opportunities welcome
 
 ## 🔧 Technical Skills
 
