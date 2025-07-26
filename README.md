@@ -79,7 +79,7 @@
   <a href="https://www.facebook.com/nuren.sherpa.2025/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/sherpa.nuren" target="blank">
+  <a href="[https://instagram.com/sherpa.nuren](https://www.instagram.com/nurensherpa/)" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
   </a>
 </p>
