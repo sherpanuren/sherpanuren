@@ -1,8 +1,8 @@
 # Hi 👋, I'm Nuren Sherpa
-## Cloud Developer | AWS Enthusiast | Nepal 🇳🇵
+## AI/ML Engineer | Computer Vision Enthusiast | Nepal 🇳🇵
 
 <div align="center">
-  <img alt="Cloud Architecture" width="400" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
+  <img alt="AI/ML and Deep Learning" width="400" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
 </div>
 
 <p align="left"> 
@@ -10,66 +10,54 @@
 </p>
 
 ## 💼 Professional Summary
-- 🎯 **Seeking**: Entry-level Cloud Developer / AWS Associate positions
-- ☁️ **Focus**: Building cloud-native applications with AWS services
-- 💡 **Passionate** about scalable web development and cloud architecture
-- 🚀 **Goal**: Contributing to innovative cloud projects while growing technical expertise
-- 🌐 **Location**: Kathmandu, Nepal | **Availability**: Remote/Hybrid opportunities welcome
+- 🎯 **Seeking**: AI/ML Engineering roles, Internships, and Junior AI/ML Developer positions
+- 🤖 **Focus**: AI model development, deep learning, computer vision, and machine learning applications
+- 💡 **Passionate** about using machine learning and deep learning techniques to solve complex real-world problems
+- 🚀 **Goal**: Contributing to innovative AI projects and expanding my skills in deep learning, computer vision, and neural networks
+- 🌐 **Location**: Kathmandu, Nepal | **Availability**: Open to remote and hybrid opportunities
 
 ## 🔧 Technical Skills
 
-### Cloud & Backend
+### AI/ML Tools & Libraries
 <p align="left">
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
   </a>
+  <a href="https://pytorch.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
+  </a>
+  <a href="https://opencv.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/>
+  </a>
+</p>
+
+### Programming & Data Science
+<p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
   </a>
-</p>
-
-### Frontend & Web Development
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-</p>
-
-### Programming Languages
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
   </a>
 </p>
 
 ## 🎓 Currently Learning & Certifications
-- 📖 **AWS Cloud Practitioner** certification (in progress)
-- ⚡ **AWS Lambda & Serverless** architectures
-- 🐳 **Docker** containerization basics
-- 🔄 **Git/GitHub** workflows and collaboration
+- 📖 **Machine Learning by Andrew Ng** — Coursera (In Progress)
+- ⚡ **Deep Learning Specialization** — Coursera (In Progress)
+- 🔄 **Git/GitHub** workflows for collaborative development
 
 ## 🎯 What I Bring to Your Team
-- ✅ **Strong foundation** in programming fundamentals
-- ✅ **Cloud-first mindset** with hands-on AWS experience
-- ✅ **Problem-solving skills** developed through diverse projects
-- ✅ **Quick learner** adapting to new technologies
-- ✅ **Team collaboration** experience through version control
-- ✅ **Reliable communication** and project delivery
+- ✅ **Strong foundation** in machine learning algorithms, deep learning, and computer vision
+- ✅ **Hands-on experience** with TensorFlow, PyTorch, and OpenCV for AI model development and implementation
+- ✅ **Problem-solving mindset** honed through academic and personal AI/ML projects
+- ✅ **Quick learner** adapting to new technologies and research in AI
+- ✅ **Team collaboration** and project management skills through version control and open-source contributions
 
 ## 💬 Let's Connect - I'm Open to Opportunities!
 <p align="left">
@@ -85,7 +73,7 @@
 </p>
 
 📧 **Email**: sherpanuren1@gmail.com  
-🤝 **Available for**: Junior Developer roles, Cloud internships, Remote collaborations
+🤝 **Available for**: Junior AI/ML Developer roles, AI internships, Remote collaborations
 
 ---
 <div align="center">
