@@ -47,10 +47,6 @@
   </a>
 </p>
 
-## 🎓 Currently Learning & Certifications
-- 📖 **Machine Learning by Andrew Ng** — Coursera (In Progress)
-- ⚡ **Deep Learning Specialization** — Coursera (In Progress)
-- 🔄 **Git/GitHub** workflows for collaborative development
 
 ## 🎯 What I Bring to Your Team
 - ✅ **Strong foundation** in machine learning algorithms, deep learning, and computer vision
