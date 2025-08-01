@@ -1,5 +1,5 @@
 # Hi 👋, I'm Nuren Sherpa
-## AI/ML Engineer | Computer Vision Enthusiast | Nepal 🇳🇵
+## AI/ML | Computer Vision Enthusiast | Nepal 🇳🇵
 
 <div align="center">
   <img alt="AI/ML and Deep Learning" width="400" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
